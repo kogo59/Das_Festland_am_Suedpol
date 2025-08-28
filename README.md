@@ -1,6 +1,6 @@
-# Das Festland am Südpol.Die Expedition zum Südpolarland in den Jahren 1898-1900."
+# Das Festland am Südpol.Die Expedition zum Südpolarland in den Jahren 1898-1900.
 
-<img align="right" height="150" src="https://github.com/kogo59/Reise_nach_der_Hohen_Tatarei/blob/main/images/cover.jpg">
+<img align="right" height="150" src="https://github.com/kogo59/Das_Festland_am_Suedpol/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Das Festland am Südpol".
 
