@@ -1,4 +1,4 @@
-:::: { .fs-s .align-center  }
+:::: { .break-before .fs-s .align-center  }
 <br /><br /><br /><br /><br /><br /><br /><br /><br />Carsten Borchgrevink
 ::::
 
