@@ -58,7 +58,7 @@ Schlesische Verlags-Anstalt v. S. Schottlaender<br />
 ::::
 
 
-:::: {.fs-s .align-center .break-after }
+:::: {.fs-xs .align-center .break-after }
 | Leipzig: E. F. Steinacher&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1905&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New-York: G. E. Stechert
 ::::
 

@@ -299,7 +299,7 @@ Mark Fracht, eine Summe, die das Vermögen der Expedition zu sehr geschwächt
 hätte. Die Konserven mußten mit der größten Sorgfalt verpackt werden, da auch
 sie unter hoher Temperatur leicht leiden.
 
-:::: { .wrap-80 .caption .align-center  }
+:::: { .wrap-70 .caption .align-center  }
 ![„Southern Croß“<br /><small>während der starken Eisschraubung am 23. Januar 1899 bei den Ballenyinseln</small>](Festland_am_Suedpol_037.jpg "„Southern Croß“"){#b037}
 ::::
 
@@ -703,7 +703,7 @@ ausführlichen Übersicht über die wissenschaftlichen Resultate der Expedition
 zurückkommen.
 
 :::: { .wrap-80 .caption  }
-![&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borchgrevink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fougner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evans<br />DeSammlungen aus der Vogelwelt der Südsee)](Festland_am_Suedpol_055.jpg "DSammlungen aus der Vogelwelt der Südsee"){#b055}
+![&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Borchgrevink&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fougner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evans<br />(Sammlungen aus der Vogelwelt der Südsee)](Festland_am_Suedpol_055.jpg "Sammlungen aus der Vogelwelt der Südsee"){#b055}
 ::::
 
 Hier sei nur bemerkt, daß schon die deutsche Planktonexpedition 1897 in der
