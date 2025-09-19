@@ -1,4 +1,4 @@
-# Erstes Kapitel.&nbsp;<br />**Ausrüstung und Abreise**<br /> {#eins .unnumbered}
+# Erstes Kapitel&nbsp;<br />**Ausrüstung und Abreise**<br /> {#eins .unnumbered}
 
 :::: { .align-center .fs-s}
 Von der nördlichen nach der südlichen Halbkugel
