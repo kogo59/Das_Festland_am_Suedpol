@@ -71,7 +71,7 @@ nördlichen Halbkugel außerordentlich verschieden.
 ::::
 
 Im Jahre 1819 entdeckte *William Smith* von der Brigg „William“ eine Inselgruppe
-südlich vom Kap Horn, die *Südshetland* genannt wurde. In den Jahren 1820 - 21
+südlich vom Kap Horn, die *Südshetland* genannt wurde. In den Jahren 1820—21
 besuchte *Weddell* Südshetland und sah einen tätigen Vulkan namens Bridgeman.
 *Powell,* der die Südorkneyinseln entdeckte, besuchte die vulkanische Insel
 Bridgeman im Jahre 1822 und fand, daß sie ungefähr 70 Meter hoch war. Weddell,
@@ -97,7 +97,7 @@ durch das Eis gebracht hatte, fand er gegen Süden offenes Wasser, das sich etwa
 mächtige Gebirgskette mit schneebedeckten Vulkanen, die die Küste von
 Süd-Viktorialand bildet. Roß folgte in ehrerbietigem Abstand der Küste ungefähr
 500 Meilen südlich, wo er schließlich von einer gewaltigen Eisbarriere
-aufgehalten wurde, deren Höhe er auf 25 — 30 Meter schätzte.
+aufgehalten wurde, deren Höhe er auf 25—30 Meter schätzte.
 
 :::: { .wrap-100 .caption .align-center }
 ![Die Possession-Insel mit der Archer Bergspitze am antarktischen Festland (Photographie)](Festland_am_Suedpol_005.jpg "Die Possession-Insel mit der Archer Bergspitze am antarktischen Festland (Photographie)"){#b005}
@@ -154,7 +154,7 @@ Müller, Professor an der Universität von Melbourne, ein geborener Deutscher, d
 unaufhörlich meine Aufmerksamkeit auf die antarktischen Regionen und namentlich
 auf das große Festland richtete, das Roß südlich von Australiern gesehen hatte.
 Mein Briefwechsel und meine Unterredungen mit meinem verstorbenen Freunde und
-Ratgeber *Archibald Archer*^[^0000]^ hatten auch einen wesentlichen Einfluß auf
+Ratgeber *Archibald Archer*<sup>[^0000]</sup> hatten auch einen wesentlichen Einfluß auf
 die Wahl meiner Lebensarbeit. Nach meiner Anstellung als Lehrer der
 Naturwissenschaften an der „Cooerwooll Academy“, einer Abteilung der Sidney
 Universität. kam ich während meiner Arbeit die in der Einrichtung von
@@ -432,7 +432,7 @@ zugeschnitten sein.
 
 In der unmittelbar auf den geographischen Kongreß folgenden Zeit schrieb ich
 eine ganze Reihe Artikel in Zeitschriften und Zeitungen über die Südpolarfrage,
-von 1895— 97 hielt ich in Deutschland, England, Amerika und Australien eine
+von 1895—97 hielt ich in Deutschland, England, Amerika und Australien eine
 große Anzahl Vorträge über dieses Thema.
 
 Inzwischen wurde die belgische antarktische Expedition unter Kapitän Gerlache

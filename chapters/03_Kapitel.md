@@ -230,7 +230,7 @@ zusammenzusetzen und einzurichten.
 Der antarktische Herbst war stark vorgeschritten, und die Stürme nahmen an Kraft
 zu. Es kam beständig mehr und mehr Treibeis in die Bucht. Ich fürchtete, daß das
 Schiff eingeschlossen würde. Wenn es, wie beabsichtigt, wieder durch das Packeis
-zurück sollte, ehe dieses sich schloß, so war es die höchste Zeit, daß es vom  Kap Adare aufbrach
+zurück sollte, ehe dieses sich schloß, so war es die höchste Zeit, daß es vom  Kap Adare aufbrach.
 
 
 ::::  { .fs-xxxs .rotate .break-before }
@@ -243,25 +243,25 @@ zurück sollte, ehe dieses sich schloß, so war es die höchste Zeit, daß es vo
 |     |der Luft  |            |               | des      |der Luft  |             |          |des       |         |         |       |
 |     |          |            |               | Meeres   |          |             |          |Meeres    |         |         |       |
 +=====+==========+============+===============+==========+==========+=============+==========+==========+=========+=========+=======+
-|18.  |-1,9      |S.O. 3,5    |Stratus 10     | -0,9     | -3,1     |Windstille 0 |Stratus 10|  -1,6    | -2,5    |  -3,1   |  -1,2 |
+|18.  |—1,9      |S.O. 3,5    |Stratus 10     | —0,9     | —3,1     |Windstille 0 |Stratus 10|  —1,6    | —2,5    |  —3,1   |  —1,2 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|19.  |-1,7      |O.N.O. 4    |Stratus 9      | -1,2     | -3,3     | S.S.W. 3    |Stratus 10|  -1,1    | -2,5    |  -3,9   |  -1,5 |
+|19.  |—1,7      |O.N.O. 4    |Stratus 9      | —1,2     | —3,3     | S.S.W. 3    |Stratus 10|  —1,1    | —2,5    |  —3,9   |  —1,5 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|20.  |+2,1      |S.S.W. 2    |Nimbus 10      | -0,9     |  —       |  —          | —        |   —      |  —      |  -5,0   |  -1,8 |
+|20.  |+2,1      |S.S.W. 2    |Nimbus 10      | —0,9     |  —       |  —          | —        |   —      |  —      |  —5,0   |  —1,8 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|21.  |-3,7      |S.S.W. 2,5  |Stratus 10     | -1,0     |  -2,6    |Windstille 0 |Stratus 10| -0,7     | -2,3    |  -2,8   |  -1,0 |
+|21.  |—3,7      |S.S.W. 2,5  |Stratus 10     | —1,0     |  —2,6    |Windstille 0 |Stratus 10| —0,7     | —2,3    |  —2,8   |  —1,0 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|22.  |+1,9      |S.W. 3,5    |Cirro-Stratus 3| -1,0     |  -2,6    |S.O. 4       |Stratus 10| -1,1     | -2,3    |  -3,7   |  -1,7 |
+|22.  |+1,9      |S.W. 3,5    |Cirro-Stratus 3| —1,0     |  —2,6    |S.O. 4       |Stratus 10| —1,1     | —2,3    |  —3,7   |  —1,7 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|23.  |+3,1      |Windstille 0|Stratus 8      | -1,1     |  -4,8    |Windstille 0 |Nimbus  10| -1,2     | -3,9    |  -5,8   |  -1,9 |
+|23.  |+3,1      |Windstille 0|Stratus 8      | —1,1     |  —4,8    |Windstille 0 |Nimbus  10| —1,2     | —3,9    |  —5,8   |  —1,9 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|24.  |+3,1      |N.N.O 1     |Stratus 5      | -1,7     |   —      | —           |  —       |  —       |  —      |   —     |   —   |
+|24.  |+3,1      |N.N.O 1     |Stratus 5      | —1,7     |   —      | —           |  —       |  —       |  —      |   —     |   —   |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|25.  | —        | —          | —             | —        |  -5,6    | S.O. 4      |Stratus 1 |  -1,7    |  —      |   -6,7  |  -1,5 |
+|25.  |          | —          | —             | —        |  —5,6    | S.O. 4      |Stratus 1 |  —1,7    |  —      |   —6,7  |  —1,5 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|26.  | -3,9     | S.O. 5     |Cirro-Stratus 4| -1,6     |  -4,3    | S.O. 5      |Stratus 10|  -1,6    | -4,1    |   -5,8  |  -3,8 |
+|26.  | —3,9     | S.O. 5     |Cirro-Stratus 4| —1,6     |  —4,3    | S.O. 5      |Stratus 10|  —1,6    | —4,1    |   —5,8  |  —3,8 |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+          
-|27.  | -5,8     | O.N.O 4    |Stratus 2      | -1,8     |  -5,9    | O.S.O. 3    |Stratus 1 |  -1,4    | -5,8    |    —    |   —   |
+|27.  | —5,8     | O.N.O 4    |Stratus 2      | —1,8     |  —5,9    | O.S.O. 3    |Stratus 1 |  —1,4    | —5,8    |    —    |   —   |
 +-----+----------+------------+---------------+----------+----------+-------------+----------+----------+---------+---------+-------+         
 Table: Beobachtungen an Bord des Schiffes während des Löschens bei Kap Adare<br /><br />Bemerkungen: Am 20. Schnee 3 Uhr nachm., heftige Windstöße 5 Uhr nachm. — Am 23. Schnee 9 Uhr nachm.<br /><br />
 
@@ -448,14 +448,14 @@ nicht schmecken. Allmählich gewöhnten wir uns jedoch daran.
 ![Binnensee auf der Landzunge (Photographie)](Festland_am_Suedpol_110.jpg "Binnensee auf der Landzunge (Photographie)"){#b110}
 ::::
 
-Am 13. März hatten wir — 5,5° C. Von dieser Zeit an fiel das Thermometer
+Am 13. März hatten wir —5,5° C. Von dieser Zeit an fiel das Thermometer
 schnell, und das Eis setzte sich in der Robertsonbucht bei den ersten Stürmen
 wieder in Bewegung. Ich wartete ungeduldig darauf, daß das Eis so stark würde,
 um eine Schlittentour über das gefrorene Wasser nach der westlichen Seite der
 Meeresbucht zu machen. Inzwischen fingen wir an, unsere kleine Halbinsel und die
 hohen Felsmassen des Kaps Adare hinter uns genauer zu untersuchen, und bestiegen
 das Kap einstweilen bis zu einer Höhe von 1200 Metern, die wir durch das
-Aneroid- Barometer feststellten. 
+Aneroid-Barometer feststellten. 
 
 Auf der Halbinsel fanden wir kleine Binnenseen; die meisten waren mit süßem
 Wasser gefüllt, nur der eine See hatte Brackwasser. An der Küste stießen wir auf

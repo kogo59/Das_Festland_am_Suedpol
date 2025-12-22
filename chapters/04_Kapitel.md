@@ -253,7 +253,7 @@ In Veranlassung der Ankunft der neuen Mitglieder fand große Festtafel statt.
 
 Am 2. Juni zeigte Aurora Australis sich 7,30 abends und blieb mehrere Stunden
 sichtbar. Zur Mitternachtszeit war sie ganz besonders schön. Wie gewöhnlich
-begann sie mit einem Bogen im Norden und Nord-Ost^[^0400]^. Die Lichtteppiche
+begann sie mit einem Bogen im Norden und Nord-Ost<sup>[^0400]</sup>. Die Lichtteppiche
 bewegten sich gegen Zenit. Als Aurora Zenit erreicht hatte, wurde sie, soweit es
 ihren ganzen Lichtkörper betraf, fast stationär, aber die vertikale
 Wellenbewegung von Ost nach West war sehr lebhaft. Korona wurde bei Zenit gerade
@@ -261,7 +261,7 @@ unter Crux gebildet. Obgleich das Licht sehr stark war, war doch nie viel Not
 vorhanden. Von Zeit zu Zeit wurde das Licht außerordentlich scharf und schien
 plötzlich horizontale Strahlen auszusenden, dann wieder schien es in einem Nebel
 hinzusterben. Cirruswolken bedeckten einen Teil des Himmels. Die Temperatur war
-— 22 Grad C.
+—22 Grad C.
 
 Am 3. Juni ungefähr 10 Uhr nachmittags wurden wir wieder durch den herrlichen
 Anblick von Aurora entzückt. Diesmal war sie schöner als je zuvor.
@@ -609,7 +609,10 @@ westliche versteckt.<br /><br />
 *Totale Mondfinsternis.*
 ::::
 
-<div style="float: left">23. Juni </div><div style="float: right">Kap Adare.</div><div style="clear: both;"></div>
+<div style="float: left;">23\. Juni</div>
+<div style="float: right;">Kap Adare.</div>
+<div style="clear: both;"></div>
+
 
 :::: {.fs-xxs .align-center}
 Mit Chronometer Nr. 2262 von Brockbank, Atkins und Moore.
@@ -634,7 +637,7 @@ Temperatur um 1 Uhr vorm. —23,~7~ Celsius<br /><br />
 | 24. Juni.<br />
 
 
-| Nebel. Temperatur: — 7,~7~ Celsius. Barometer 29,~048~  Alt Ther.
+| Nebel. Temperatur: —7,~7~ Celsius. Barometer 29,~048~  Alt Ther.
 
 
 | Canopus | St. | M. | S.     |                 |
@@ -656,7 +659,7 @@ Temperatur um 1 Uhr vorm. —23,~7~ Celsius<br /><br />
 
 
 Am 1. Juli zeigte Aurora sich um 7 Uhr nachmittags und erstreckte sich von Ost
-nach Südwest. Temperatur war — 25 Gr. C. Am 9 Uhr nachmittag erreichte die
+nach Südwest. Temperatur war —25 Gr. C. Am 9 Uhr nachmittag erreichte die
 Erscheinung ihre größte Schönheit. Am 1 Uhr fing sie an abzusterben, kurz darauf
 brach der gewöhnliche Sturm über uns ein.
 
@@ -667,7 +670,7 @@ Wir hatten uns frühzeitig zur Ruhe gelegt; wie gewöhnlich lasen einige der
 Mitglieder noch, und nach und nach schlief einer nach dem andern ein. Am
 Mitternacht erwachte ich plötzlich; ich war nahe daran, im Rauch zu ersticken,
 und die Flammen eines starken Feuers züngelten von der Seite, an der Colbeck
-lag, zu mir empor. Mit einem Satz war ich aus der kleinen Offnung meiner Kabine
+lag, zu mir empor. Mit einem Satz war ich aus der kleinen Öffnung meiner Kabine
 und sah, als ich draußen war, Colbeck damit beschäftigt, das erste beste
 Eiswasser, das er zur Hand hatte, auf seine in hellen Flammen stehenden Betten
 zu gießen. Er war bei einem brennenden Talglicht, das er, um zu lesen, neben
@@ -926,7 +929,7 @@ schwarze Rohr des Ofens aus dem großen Schneehaufen hervorschauen. Am das Rohr
 hatte er Holzstücke und Asbestplatten gelegt.
 
 Nachdem er verschiedene hölzerne Kisten und einige Kohlen in die Schneehöhle
-gebracht hatte, schloß er die Offnung hermetisch ab, und kurz darauf zeigten
+gebracht hatte, schloß er die Öffnung hermetisch ab, und kurz darauf zeigten
 dichte Rauchwolken aus dem Rohr, daß Savio geheizt hatte.
 
 :::: { .wrap-100 .caption .align-center  }
@@ -1526,7 +1529,7 @@ ich wärmten mit vieler Schwierigkeit über einer Spirituslampe Kakao für ihn u
 dann massierten wir, so gut es ging, seine Glieder, bis er wieder zum Leben
 erwachte. Er war aber sehr mißgestimmt und fing wieder an, seine lappländischen
 Lieder, die hier tief unter dem Schnee einförmig und traurig klangen, zu singen,
-während das Heulen des Sturmes von neuem zu uns durch die Offnung drang.
+während das Heulen des Sturmes von neuem zu uns durch die Öffnung drang.
 
 Ich ließ Must in die Laterne hineinatmen, wodurch er etwas warme Luft in sich
 aufnahm. Dies war ein Genuß, den wir uns von Zeit zu Zeit bereiteten. Wir
@@ -1697,7 +1700,7 @@ einige von ihnen frei gemacht, als sie im Dunkel dem Meer zueilten, und kurz
 darauf hörten wir, daß sie sich im wütenden Kampfe mit einem Seehund nicht weit
 entfernt am Ende der Eismauer befanden, die von einem niedergestürzten Gletscher
 gebildet wurde und wo in der Eislage durch den Druck des Gletschereises
-Offnungen entstanden waren.
+Öffnungen entstanden waren.
 
 Ehe wir das Lager aufschlugen, sicherten wir uns zwei große Seehunde (Weddels)
 und brachten sie zum Lagerplatz, wo wir sie zerlegten und den Hunden eine reiche
@@ -1724,7 +1727,7 @@ Ein Gefühl der Dankbarkeit für das Dasein. — Die klaren Sterne dort oben! Da
 große, dunkle, geheimnisvolle Land, das wir erreicht hatten und das noch im
 Dunkel dalag — die Arbeit, Einsamkeit, Entbehrungen, Sehnsucht und Kälte der
 letzten Tage, alles dies erhob den Sinn zu einer Hingebung an das Dasein, die im
-Aberfluß der Zivilisation unbekannt und verkrüppelt ist. — Die reinsten, die
+Überfluß der Zivilisation unbekannt und verkrüppelt ist. — Die reinsten, die
 klarsten Gedanken stiegen unwillkürlich auf und schwebten wie selbständige Wesen
 umher und vereinten sich mit den Orgelpfeifen des Südlichtes im Himmelsraum.
 
@@ -2071,7 +2074,7 @@ nämlich die „verbotene Frucht“.
 Die stärkste Kälte herrschte gerade dann, als die Sonne zurückkehrte. Im Herbst
 gaben die Eismassen noch eine Menge Wärme vom Sommer ab; jetzt assimilierten die
 Eisfelder aber die Wärme und hielten den Sommer ebenso zurück, wie im Herbst der
-Winter noch eine Zeitlang zurückgehalten zu werden scheint.^[^0401]^
+Winter noch eine Zeitlang zurückgehalten zu werden scheint.<sup>[^0401]</sup>
 
 Der 19. war klar und herrlich. Als wir aus unserem Zelt krochen, erhob die Sonne
 sich gerade über dem Horizont, und die leichten Wolken wechselten zwischen

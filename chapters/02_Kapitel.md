@@ -210,7 +210,7 @@ die Luft undurchsichtig. Das Barometer stand verhältnismäßig tief, und wir
 zögerten noch, uns zwischen die Eisblöcke zu begeben. Es galt, einen günstigen
 Augenblick mit stillem Wetter und ruhigem Wasser abzuwarten.
 
-Das äußere Eis war ungefähr 2 Fuß dick, überall in den Offnungen sahen wir
+Das äußere Eis war ungefähr 2 Fuß dick, überall in den Öffnungen sahen wir
 Massen von Krustazeen. Das Wasser schien ganz rot von ihnen. In dieser Nacht
 begab sich niemand zur Ruhe. Das Interesse für die ersten großen Schwierigkeiten
 hielt alle wach. Einer meiner Begleiter schrieb in sein Tagebuch: „Fürwahr, wir
