@@ -1114,12 +1114,6 @@ und eine durchdringende Stimme laut durch die Hütte rief: „Die Post!“
 
 — — Es war Kapitän Jensen.
 
-
-
-
-
-
-
 :::
 
 
