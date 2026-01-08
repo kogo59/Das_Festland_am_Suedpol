@@ -491,5 +491,6 @@ englischer Sprache veröffentlicht worden. Erst jetzt erscheint ein Gesamtberich
 über meine Südpolarexpedition von 1898—1900 in meiner norwegischen Muttersprache
 und gleichzeitig die vorliegende deutsche Ausgabe.
 
-
 :::
+
+
