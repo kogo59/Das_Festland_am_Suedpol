@@ -323,7 +323,7 @@ Nase über Wasser zu halten. Glücklicherweise entdeckte Fougner mich und fischt
 mich noch gerade zur rechten Zeit auf.
 
 :::: { .wrap-70 .caption .align-center  }
-![In der Ausgucktonne (Photographie)](Festland_am_Suedpol_075.jpg "In der Ausgucktonne (Photographie)"){#b075a}
+![In der Ausgucktonne (Photographie)](Festland_am_Suedpol_075.jpg "In der Ausgucktonne (Photographie)"){#b075}
 ::::
 
 :::: { .wrap-100 .caption .align-center  }

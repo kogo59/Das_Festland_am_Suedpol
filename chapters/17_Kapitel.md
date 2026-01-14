@@ -1,4 +1,4 @@
-# <br />**Kurze Übersicht**<br /> {#siebzehn .unnumbered}
+# <br/>**Kurze Übersicht**<br/> {#siebzehn .unnumbered}
 
 
 ::: {.align-center}
@@ -293,7 +293,7 @@ Alle diese kleinen Pinguine wechseln zwischen 70—75 cmtr.
 
 
 ::: { .align-center .fs-l }
-Die Petrels.
+<br/><br/>Die Petrels.
 :::
 
 ::: justified
