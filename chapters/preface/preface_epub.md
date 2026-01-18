@@ -54,7 +54,6 @@ und mit Reproduktionen photographischer Original-Aufnahmen
 
 :::: { .fs-xs .align-center }
 Schlesische Verlags-Anstalt v. S. Schottlaender<br />
-1876<br /><br />
 ::::
 
 
